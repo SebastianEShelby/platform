@@ -1034,5 +1034,8 @@
       },
       "tags": []
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
